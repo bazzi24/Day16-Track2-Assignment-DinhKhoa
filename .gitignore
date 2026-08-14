@@ -21,5 +21,4 @@ lab-key.pub
 .env
 .env.local
 
-*.zip
 terraform-gcp/.terraform.lock.hcl
