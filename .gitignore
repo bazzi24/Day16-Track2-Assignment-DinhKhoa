@@ -20,3 +20,6 @@ lab-key.pub
 # Environment Variables
 .env
 .env.local
+
+*.zip
+terraform-gcp/.terraform.lock.hcl
